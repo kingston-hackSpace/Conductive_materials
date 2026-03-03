@@ -1,17 +1,33 @@
 # Conductive materials
 
-### Conductive Thread
+Start by watching the following video:
 
-[Conductive Thread](https://learn.adafruit.com/conductive-thread) 
+[INTRO to E-TEXTILES - VIDEO](https://www.youtube.com/watch?v=m9O-T8oy7TU)
 
-[Conductive Thread - 10 Tips](https://www.adafruit.com/product/640)
+[Getting Started with E-Textiles: Basic Stitches](https://www.youtube.com/watch?v=_VhLwGwpk9A)
 
-### Conductive Nylon tape
+-----
+
+### About Conductive Thread
+
+[About Conductive Thread](https://learn.adafruit.com/conductive-thread) 
+
+### About Conductive Nylon tape
  
-[Conductive Nylon tape](https://www.adafruit.com/product/3960)
+[About Conductive Nylon tape](https://www.adafruit.com/product/3960)
 
-### Conductive Fabric
+### About Conductive Fabric
  
-[Woven Conductive Fabric](https://www.adafruit.com/product/1168)
+[About Woven Conductive Fabric](https://www.adafruit.com/product/1168)
  
-[Knit Conductive Fabric](https://www.adafruit.com/product/1167)
+[About Knit Conductive Fabric](https://www.adafruit.com/product/1167)
+
+----
+
+# Where to buy
+
+[The Pi Hut](https://thepihut.com/search?q=conductive+materials&narrow_by=&sort_by=relevency&page=1)
+
+[Kitronics: Thread and Fabric](https://kitronik.co.uk/collections/e-textiles-conductive-thread/conductive-thread-and-material)
+
+[Kitronics: Switches for E-textiles](https://kitronik.co.uk/collections/e-textiles-conductive-thread/e-textiles-switches-and-sensors)
